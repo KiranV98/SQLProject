@@ -1,17 +1,5 @@
 
 # SQL Queries For Business Requirements Of Atliq Mart Using SQL Database.
-
-
-
-
-
-
-
-
-
-
-
-
 ## Description
 1.Listing of products with price greater than Rs.500 and with the promo type of 'BuyOneGetOne'using JOIN and WHERE clauses.  
 2.Generating the COUNT of stores in each city using GROUP BY clause.  
